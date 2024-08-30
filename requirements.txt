@@ -1,0 +1,23 @@
+# Streamlit is a framework for building web applications in Python.
+streamlit
+
+# Langchain provides tools for working with language models in various ways.
+langchain
+
+# Langchain Ollama is a specific integration for working with the Ollama language model.
+langchain_ollama
+
+# Selenium is used for automating web browser interaction, necessary for web scraping.
+selenium
+
+# BeautifulSoup is a library for parsing HTML and XML documents.
+beautifulsoup4
+
+# lxml is a parser used by BeautifulSoup for handling HTML and XML content.
+lxml
+
+# html5lib is another parser option for BeautifulSoup, useful for handling malformed HTML.
+html5lib
+
+# Python-dotenv is used for loading environment variables from a .env file.
+python-dotenv
